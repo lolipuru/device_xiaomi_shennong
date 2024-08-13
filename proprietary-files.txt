@@ -1478,6 +1478,10 @@ odm/etc/mdss_dsi_n2_42_02_0a_dsc_cmd_mi.xml
 odm/etc/mdss_dsi_n2_42_02_0a_p11_dsc_cmd_mi.xml
 odm/etc/mdss_dsi_n2_42_02_0a_p2_dsc_cmd_mi.xml
 
+# Fingerprint
+odm/lib64/hw/fingerprint.goodix_fod.so
+odm/lib64/libgf_hal.so
+
 # RIL
 odm/etc/me_config.xml
 
